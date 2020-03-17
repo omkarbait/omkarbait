@@ -1,7 +1,7 @@
 ---
 layout: single
 author: Omkar Bait
-title: About Me
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 Here you can find things about me. 
