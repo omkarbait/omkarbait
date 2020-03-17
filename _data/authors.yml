@@ -1,0 +1,14 @@
+Omkar Bait:
+  name        : "Omkar Bait"
+  bio         : "A multi-wavelength astronomer"
+  avatar      : "/assets/images/omkar.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:omkar@ncra.tifr.res.in"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://omkarbait.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ombait"
